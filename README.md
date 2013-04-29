@@ -5,22 +5,24 @@ This is a test that a potential junior front end developer has to solve
 
 # Instructions
 
-Fix this this web page! It should satisfy the following requirements:
+This is a web page about J Dilla, the legendary record producer.
 
-1. HTML 5 / CSS 3 compliant
-2. Fully responsive in that it looks sane in the following views:
-  - Desktop
-  - Tablet (portrait/landscape)
-  - Mobile (portrait/landscape)
-3. Bonus points for the following:
-  - Use of Skeleton, Susy or other responsive frameworks
-  - Use of custom typefaces
-  - Use of HAML/SASS
-  - Refactoring SASS
-  - Making it look like something which doesn't hurt your eyes
+Your task is to clone the `junior-front-end-developer-test` repo and make it a web page worthy of Dilla's timeless beats.
+
+Your resulting page should take into account the following:
+
+1. There are many things wrong with the HTML. Fix the markup!
+2. There are many things wrong with the CSS. Fix the stylesheet!
+3. The page is not currently responsive. Make it so!
+
+## Bonus points
+
+1. Use of a responsive framework
+2. Use of typeface libraries
+3. Improve the web page's usability
+
 
 # If going down the HAML/SASS route then here's how to get started
 
-1. `git clone` this repo
-2. `bundle install`
-3. `foreman start`
+1. `bundle install`
+2. `foreman start`
