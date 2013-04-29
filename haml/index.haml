@@ -1,6 +1,4 @@
-!!! 5
-
-%html{:lang => "en"}
+%html
   %head
     %meta{:charset => "utf-8"}
     %meta{:name => "description", :content => "This is a website about "}
@@ -10,25 +8,25 @@
     %link{:rel => "stylesheet", :href => "http://fonts.googleapis.com/css?family=Open+Sans:400,700,800"}
   %body
     %div.container
-      %header
+      %div.header
         %h1
           J Dilla
           <center style="font-size: medium">James Dewitt Yancey (February 7, 1974 &mdash; February 10, 2006)</center>
-      %section
+      %div.main-quote
         %img(src="assets/images/dilla.jpg" width="200" style="float:right;margin-left:20px")
         %p.quote
           "James Dewitt Yancey, better known by the stage names J Dilla and Jay Dee, was an American record producer who emerged from the mid-1990s underground hip-hop scene in Detroit, Michigan. According to his obituary at NPR.org, he "was one of the music industry's most influential hip-hop artists, working for big-name acts including A Tribe Called Quest, De La Soul, Busta Rhymes, The Pharcyde and Common." Yancey died in 2006 of the blood disease Thrombotic thrombocytopenic purpura."
           <br>
           <a href="https://en.wikipedia.org/wiki/J_Dilla">J Dilla on Wikipedia</a>
-      %section
+      %div.a-video
         <br><br><Br>
         :markdown
-          <iframe width="100%" height="360" src="http://www.youtube.com/embed/fC3Cthm0HFU?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+          <iframe width="100%" height="360" src="http://www.youtube.com/embed/fC3Cthm0HFU?feature=player_detailpage&autoplay=1" frameborder="0" allowfullscreen></iframe>
       <br><br>
       %table.trivia
         %tr
           %td.one "<i>If you were to secretly ask the most praised hip-hop producers, if given a top three, who they fear the most, Dilla’s name would chart on everyone’s list, hands down.</i>"<br/><div>- Questlove</div>
           %td.two "<i>I can't begin to explain the influence his mind and ear has had on my band, myself, and the careers of so many other artists. The most humble, modest, worthy and gifted beatmaker I've known...and definitely the best producer on a mic.</i>"<br><div>- Black Thought</div>
           %td.three "<i>He was one of the greatest, man. He was the greatest to ever do it, for the new cats. And for his mother to tell me that I was his favorite producer – I was like ‘Wow, that’s dope, man.’</i>"<br><div>- Pete Rock</div>
-      %footer
+      %div.footer
         This is a web page about J Dilla
