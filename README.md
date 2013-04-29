@@ -1,9 +1,9 @@
-index
+About
 =====
 
 This is a test that a potential junior front end developer has to solve
 
-# Instructions
+## Instructions
 
 This is a web page about J Dilla, the legendary record producer.
 
@@ -22,7 +22,7 @@ Your resulting page should take into account the following:
 3. Improve the web page's usability
 
 
-# If going down the HAML/SASS route then here's how to get started
+## If going down the HAML/SASS route then here's how to get started
 
 1. `bundle install`
 2. `foreman start`
