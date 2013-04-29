@@ -1,7 +1,7 @@
 About
 =====
 
-This is a test that a potential junior front end developer has to solve
+This is a test that a potential junior front end developer has to solve. There is no _right answer_ although there is broken markup, an inefficient stylesheet and a laughable design.
 
 ## Instructions
 
