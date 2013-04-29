@@ -24,5 +24,6 @@ Your resulting page should take into account the following:
 
 ## If going down the HAML/SASS route then here's how to get started
 
-1. `bundle install`
-2. `foreman start`
+1. `cd junior-front-end-developer-test`
+2. `bundle install`
+3. `foreman start`
