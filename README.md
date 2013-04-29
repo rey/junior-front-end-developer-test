@@ -22,7 +22,7 @@ Your resulting page should take into account the following:
 3. Improve the web page's usability and make it visually pleasing
 
 
-## If going down the HAML/SASS route then here's how to get started
+## If using HAML/SASS
 
 1. `cd junior-front-end-developer-test`
 2. `bundle install`
