@@ -19,7 +19,7 @@ Your resulting page should take into account the following:
 
 1. Use of a responsive framework
 2. Use of typeface libraries
-3. Improve the web page's usability
+3. Improve the web page's usability and make it visually pleasing
 
 
 ## If going down the HAML/SASS route then here's how to get started
