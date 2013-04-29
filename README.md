@@ -11,9 +11,11 @@ Your task is to clone the `junior-front-end-developer-test` repo and make it a w
 
 Your resulting page should take into account the following:
 
-1. There are many things wrong with the HTML. Fix the markup!
-2. There are many things wrong with the CSS. Fix the stylesheet!
-3. The page is not currently responsive. Make it so!
+1. There are many things wrong with the HTML.
+2. There are many things wrong with the CSS.
+3. The page is not currently responsive.
+
+_Any approach is fine. Feel free to throw it away and start again if you feel like it._
 
 ## Bonus points
 
